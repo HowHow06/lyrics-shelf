@@ -1,0 +1,155 @@
+{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
+---- 齐来崇拜 O Come All Ye Faithful (verse 1 only)
+# 齐来崇拜 ## O Come All Ye Faithful
+--- verse 1
+齐来宗主信徒 
+快乐又欢欣
+齐来 一齐来 
+大家上伯利恒
+来朝见圣婴 
+天使王已降生
+--- chorus
+齐来虔诚同敬拜
+齐来虔诚同敬拜
+齐来虔诚同敬拜 
+主基督
+***
+---- O Come, All Ye Faithful (only verse 1)
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+# O Come\n All Ye Faithful
+--- verse 1
+O come all ye faithful 
+joyful and triumphant
+O Come ye O come ye 
+to Bethlehem
+Come and behold Him 
+born the King of angels
+--- chorus
+O come let us adore Him
+O come let us adore Him
+O come let us adore Him 
+Christ the Lord
+***
+---- Joy to the World (verse 1 only)
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+# Joy to the World 
+--- verse 1
+Joy to the world! The Lord is come
+Let earth receive her King
+Let every heart prepare Him room
+And heaven and nature sing
+And heaven and nature sing
+And heaven, and heaven, and nature sing
+***
+---- 普世欢腾歌 Joy to the World (verse 1,2,4)
+# 普世欢腾歌 ## Joy to the World 
+--- verse 1
+普世欢腾 救主下降 
+大地接她君王
+惟愿众心预备地方 
+诸天万物歌唱 
+诸天万物歌唱 诸天 
+诸天万物歌唱 
+--- verse 2
+普世欢腾 主治万方 
+民众首当歌唱
+沃野 洪涛 山石 平原 
+响应歌声嘹亮 
+响应歌声嘹亮 响应 
+响应歌声嘹亮 
+--- verse 4
+主藉真理 恩治万方 
+要使万邦证明 
+上主公义 无限荣光 
+主爱奇妙莫名 
+主爱奇妙莫名 主爱 
+主爱奇妙莫名 
+***
+---- 是为了爱 It’s All For Love
+# 是为了爱 ## It’s All For Love
+--- verse
+平安君王 
+谦卑来到世上
+明亮晨星 
+照亮渴望的心
+小小婴孩 
+是尊贵的君王
+耶稣降生 
+带来爱和盼望
+--- chorus
+是为了爱 亲爱耶稣 
+降生在马槽
+是为了爱 背负重担 
+让我得平安
+谢谢天父 
+赐下生命的礼物
+谢谢耶稣 
+以爱带来救赎
+--- bridge
+我们敬拜 亲爱耶稣 
+祢就是爱和平安
+充满感恩 欢庆圣诞
+因为耶稣为拥抱我而来
+***
+---- 一同齐声宣扬 Let’s Proclaim
+# 一同齐声宣扬 ## Let’s Proclaim
+--- Verse
+耶稣降生 普天同庆
+两千年前 为你为我
+小小君王 在马槽里  
+天使天军 报好消息
+--- Chorus
+让我们一同齐声宣扬
+传报大好的消息
+耶稣降生在世上
+使你我有盼望
+黑暗中
+充满亮光
+让我们一同齐声赞美
+名叫平安的君王
+耶稣降生在世上
+一切再也不一样
+So we say 
+"Merry Christmas" To-day
+--- Last Coda
+耶稣降生在世上
+一切再也不一样
+So we say 
+祝你圣诞快乐
+***
+---- We wish you a Merry Christmas
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+# We wish you a Merry Christmas
+--- verse
+We wish you a Merry Christmas,
+We wish you a Merry Christmas,
+We wish you a Merry Christmas, 
+and a Happy New Year!
+--- chorus
+Good tidings to you
+Wherever you are
+Good tidings for Christmas 
+and a Happy New Year
+***
+---- Feliz Navidad
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":40}}}}
+# Feliz Navidad
+--- verse
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Próspero año y felicidad
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Próspero año y felicidad
+--- chorus
+I wanna wish you a merry Christmas
+I wanna wish you a merry Christmas
+I wanna wish you a merry Christmas
+From the bottom of my heart
+I wanna wish you a merry Christmas
+I wanna wish you a merry Christmas
+I wanna wish you a merry Christmas
+From the bottom of my heart
+***
