@@ -32,6 +32,7 @@
 做奇妙事
 ***
 ---- 在祢没有难成的事 All Things Are Possible With You
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"secondary":{"coverTitlePositionY":59,"coverTitleFontColor":"#ffffff"}}}
 # 在祢没有难成的事 ## All Things Are Possible With You
 --- Verse
 祢是我喜悦 是我力量
