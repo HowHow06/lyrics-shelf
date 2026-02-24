@@ -1,3 +1,4 @@
+{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
 ---- 祢真伟大 How Great Thou Art
 # 祢真伟大 ## How Great Thou Art
 @source_url: https://chinasundayschool.wordpress.com/2020/11/16/how-great-thou-art-%E4%BD%A0%E7%9C%9F%E4%BC%9F%E5%A4%A7/
@@ -31,6 +32,7 @@
 并要颂扬 神啊祢真伟大
 ***
 ---- How Great Thou Art
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
 # How Great Thou Art
 --- Verse 1
 O Lord my God 
