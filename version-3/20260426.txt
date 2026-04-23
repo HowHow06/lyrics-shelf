@@ -1,0 +1,72 @@
+{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
+---- 我们的神 You Are Our God
+# 我们的神 ## You Are Our God
+--- Verse
+诸天述说 天父的荣耀
+穹苍传扬 奇妙的作为
+张开双手 万物得饱足
+万口承认 祢是我们的神
+--- Chorus
+我们的神
+坐在宝座上
+圣殿充满荣耀
+万民敬拜
+**
+全能的神
+我们尊崇祢
+圣洁荣耀 尊贵能力
+都归于祢
+--- Bridge
+祢说话 命立就立
+祢吹气 就得生命
+万物齐唱 哈利路亚
+**
+圣哉 圣哉 圣哉
+***
+---- 祢是我的一切 You Are My All In All
+# 祢是我的一切 ## You Are My All In All
+--- Verse 1
+祢是我依靠的力量
+祢是我寻求的宝藏
+祢是我的一切
+**
+祢好比贵重的珍宝
+我怎能放弃祢不要
+祢是我的一切
+--- Chorus
+耶稣 神羔羊
+配得大赞美
+耶稣 神羔羊
+配得大赞美
+--- Verse 2
+担当我罪债和羞辱
+死里复活 我蒙救赎
+祢是我的一切
+**
+当我跌倒 祢扶持我
+当我干渴 祢充满我
+祢是我的一切
+***
+---- 旷野中唯一的力量 My Strength In The Wilderness
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"main":{"coverTitleFontSize":76},"secondary":{"coverTitleFontSize":44}},"content":{"main":{"text":{"fontSize":58}},"secondary":{"text":{"fontSize":29}}}}
+# 旷野中唯一的力量 ## My Strength In The Wilderness
+--- Verse
+祢是爱我的天父
+绝望中 祢仍然不停地运行
+祢不愿我停留黑暗中
+不停追寻我 直到我得自由
+--- Chorus
+祢是我
+旷野中唯一的力量
+患难中的安慰 
+黑暗中的盼望
+我呼求的日子 
+祢必拯救我
+信实的天父 
+我依靠祢
+--- Bridge
+阿爸父 我是尊贵的儿女
+祢教我如何用权柄争战
+阿爸父 祢用笑脸帮助我
+化所有的咒诅为祝福
+***
