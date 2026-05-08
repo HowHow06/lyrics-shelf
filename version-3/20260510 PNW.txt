@@ -1,0 +1,218 @@
+{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
+---- 主的喜乐是我力量 The Joy of the Lord is My Strength
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"secondary":{"coverTitlePositionY":58}}}
+# 主的喜乐是我力量 ## The Joy of the Lord is My Strength
+--- [Verse]
+主的喜乐是我力量
+祢的救恩是我盼望
+虽然橄榄树不效力
+也许葡萄树不结果
+我仍因救我的神
+欢欣快乐
+--- [Chorus]
+我要赞美
+无论得时或不得时
+我要赞美
+每天从日出到日落
+我心坚定于祢
+每天赞美不停
+我要赞美 跳舞赞美
+我要赞美 自由赞美
+大声欢呼 祢是永远
+得胜君王
+***
+---- 坐在宝座上圣洁羔羊 The Holy Lamb on the Throne
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"main":{"coverTitleFontSize":74},"secondary":{"coverTitleFontSize":44}}}
+# 坐在宝座上圣洁羔羊 ## The Holy Lamb on the Throne
+--- [Verse]
+坐在宝座上圣洁羔羊
+我们俯伏敬拜祢
+昔在今在以后永在
+唯有祢是全能真神
+坐在宝座上尊贵羔羊
+我们俯伏敬拜祢
+颂赞尊贵荣耀权势
+都归给祢直到永远
+--- [Chorus]
+万王之王
+万主之主
+唯有祢配得
+敬拜和尊崇
+万王之王
+万主之主
+我们高举祢圣名
+直到永远
+***
+---- Jesus Be The Name
+{"general":{"useMainSectionSettings":false,"lineCountPerTextbox":3,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":41}}}}
+# Jesus Be The Name
+--- [Verse 1]
+I could sing Your name 
+for all my life
+**
+And still find more 
+to love each time
+--- [Pre-Chorus]
+Jesus be the Name
+ever on my lips
+**
+It’s sweeter every time
+that I call on it
+--- [Chorus 1]
+There’s just something
+’bout Your Name
+**
+There’s just something
+’bout Your Name
+**
+There’s just something
+’bout Your Name
+That makes me cry holy
+**
+There is no other name
+There is no other name
+**
+There is no other name
+Jesus You’re worthy
+--- [Verse 2]
+You have been the friend
+who never left
+**
+I won’t forget
+Your faithfulness
+--- [Pre-Chorus]
+Jesus be the Name
+ever on my lips
+**
+It’s sweeter every time
+that I call on it
+--- [Chorus 2]
+There’s just something
+’bout Your Name
+**
+There’s just something
+’bout Your Name
+**
+There’s just something
+’bout Your Name
+That makes me cry holy
+**
+There is no other name
+There is no other name
+**
+There is no other name
+Jesus You’re worthy
+--- [Bridge]
+Jesus Your Name
+is like the morning light
+The one the darkness can’t deny
+**
+The resurrection
+and the life Jesus
+**
+Jesus Your Name can save
+Your Name can heal
+Your Name can make the storm be still
+**
+You never fail
+You never will Jesus
+**
+Jesus the bread of life
+broken for us
+The wounded and the worthy one
+**
+The first the last
+and soon to come Jesus
+**
+Jesus the King
+who overwhelmed the grave
+The Lord who will forever reign
+**
+The Name above
+all other names Jesus
+--- [Chorus 3]
+Oh Jesus be the Name
+Jesus be the Name
+**
+Oh Jesus be the Name
+that gets all the glory
+**
+Oh Jesus be the Name
+Jesus be the Name
+**
+Oh Jesus be the Name
+that gets all the glory
+--- [Chorus 4]
+There’s healing in Your Name
+There’s healing in Your Name
+**
+There’s healing in Your Name
+It makes me cry holy
+**
+There’s freedom in Your Name
+There’s freedom in Your Name
+**
+There’s freedom in Your Name
+It makes me cry holy
+--- [Chorus 5]
+There’s salvation in Your Name
+Salvation in Your Name alone
+**
+Salvation in Your Name
+It makes me cry holy
+**
+Jesus be the Name
+Jesus be the Name
+**
+Jesus be the Name
+that gets all the glory
+***
+---- 荣耀大君王 Glory to You
+# 荣耀大君王 ## Glory to You
+--- [Verse]
+将祢的光
+照亮在我们身上
+让我们在祢面前
+毫无隐藏
+打开我们的心
+我要看见
+祢的国度
+就在这里彰显
+--- [Pre-Chorus]
+在祢光中 我得见光
+在祢里面有丰盛盼望
+荣耀荣耀 荣耀荣耀
+圣洁大君王
+--- [Chorus]
+荣耀耶稣 耶稣 耶稣
+主耶稣
+欢迎祢在
+我们中间
+荣耀耶稣 耶稣 耶稣
+主耶稣
+祢是配得荣耀
+大君王
+***
+---- 更像祢 More Like You
+# 更像祢 ## More Like You
+--- [Verse]
+我渴望更像祢 耶稣
+如此温柔圣洁 耶稣
+祢爱涌流 毫无保留
+喔主 使我能更像祢
+我渴望更像祢 耶稣
+更多慈爱怜悯 耶稣
+谦卑自己为我舍命
+喔主 我愿更多像祢
+--- [Chorus]
+让祢爱如大水浇灌我
+充满我心深处不停涌流
+愿圣灵亲近充满我
+使我自由
+让祢爱来渗透我生命
+为祢而活 荣耀祢的名
+我愿圣洁顺服祢旨意
+紧紧跟随祢
+--- [Coda]
+紧紧跟随祢
+***
