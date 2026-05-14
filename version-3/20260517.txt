@@ -1,9 +1,9 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
+---- 安静 Be Still
+# 安静 ## Be Still
 @author:郑懋柔 (Tiffany M. Cheng) / 游智婷 (Sandy Yu)
 @license_id:7125295
 @license_provider:CCLI
----- 安静 Be Still
-# 安静 ## Be Still
 --- Verse
 安静 让平安入我心
 深深知道祢是我的神
@@ -25,9 +25,10 @@
 祢是我寻求的宝藏
 **
 祢是我的一切
-祢好比贵重的珍宝
 **
+祢好比贵重的珍宝
 我怎能放弃祢不要
+**
 祢是我的一切
 **
 --- Chorus
