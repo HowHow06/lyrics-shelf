@@ -1,0 +1,83 @@
+{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
+@author:郑懋柔 (Tiffany M. Cheng) / 游智婷 (Sandy Yu)
+@license_id:7125295
+@license_provider:CCLI
+---- 安静 Be Still
+# 安静 ## Be Still
+--- Verse
+安静 让平安入我心
+深深知道祢是我的神
+**
+风浪 让我灵更坚定
+在我身旁 祢使风浪平息
+**
+--- Chorus
+我不害怕 我仍然要敬拜
+祢陪我走向应许之处
+**
+充满盼望 我一生要敬拜
+生命满有祢的印记
+***
+---- 祢是我的一切 You Are My All In All
+# 祢是我的一切 ## You Are My All In All
+--- Verse
+祢是我依靠的力量
+祢是我寻求的宝藏
+**
+祢是我的一切
+祢好比贵重的珍宝
+**
+我怎能放弃祢不要
+祢是我的一切
+**
+--- Chorus
+担当我罪债和羞辱
+死里复活 我蒙救赎
+**
+祢是我的一切
+当我跌倒 祢扶持我
+**
+--- Bridge
+当我干渴 祢充满我
+祢是我的一切
+**
+--- Tag
+耶稣 神羔羊
+配得大赞美
+**
+耶稣 神羔羊
+配得大赞美
+***
+---- 降服 Surrender
+# 降服 ## Surrender
+@author:Zecho
+--- Verse
+主我来到祢面前
+渴望寻求祢的面
+**
+因祢是我神
+祢是我的一切
+**
+主我来到祢面前
+渴望经历祢的爱
+**
+--- prechorus 
+主 我需要祢
+我渴慕祢 呼求祢的名
+**
+主啊 求祢来陶造我
+炼净我的灵
+**
+--- chorus 
+我愿将身体献上
+当作活祭
+**
+是圣洁的
+是祢所喜悦的
+**
+我不愿效法这世界
+心意更新而变化
+**
+我愿降服
+在祢面前
+***
