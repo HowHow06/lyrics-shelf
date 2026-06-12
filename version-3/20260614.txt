@@ -1,0 +1,79 @@
+{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
+---- 大山可以挪开 The Mountains Shall Depart
+# 大山可以挪开 ## The Mountains Shall Depart
+@author:曾祥怡 Grace Tseng
+@license_id:7150681
+@license_provider:CCLI / Stream of Praise Music / BMI
+@source_url:https://youtu.be/yN2vsA3xi4A
+--- Verse
+大山可以挪开
+小山可以迁移
+但主的慈爱
+却永远不离开
+尝尽祢的美善
+深知与我同在
+因主的慈爱
+比生命更美好
+--- Chorus
+祢慈爱永不变
+祢怜悯永不断绝
+从岁首到年终
+路径滴下脂油
+我要不停称颂
+祢美好直到万代
+一生一世必有
+恩惠慈爱随我
+--- Coda
+大山可以挪开
+小山可以迁移
+但主的慈爱
+却永远不离开
+***
+---- 我的心祢要称颂耶和华 Praise The Lord, O My Soul
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"main":{"coverTitlePositionY":33,"coverTitleFontSize":74},"secondary":{"coverTitlePositionY":66,"coverTitleFontSize":46}}}
+# 我的心\n祢要称颂耶和华 ## Praise The Lord, O My Soul
+--- Verse
+我的心祢要称颂耶和华
+不可忘记祂的恩惠
+祂赦免祢一切过犯罪孽
+医治祢疾病复原
+我的心祢要称颂耶和华
+不可忘记祂的恩惠
+祂以仁爱慈悲为祢冠冕
+为受屈的人申冤
+--- Chorus
+天离地有何等的高
+祂的慈爱也何等的深
+东离西有多么的远
+祂使我的过犯也离我多远
+耶和华有怜悯的爱
+且有丰盛无尽的恩典
+从亘古直到永远
+耶和华祂是我的神
+***
+---- 我全然献上 This Is My Offering
+# 我全然献上 ## This Is My Offering
+--- Verse
+像亚伯拉罕献上以撒
+我生命挚爱都献给祢
+所有一切 都是祢的赏赐
+祢配得 我献上全所有
+--- Chorus
+我全然献上
+我全然降服
+照祢旨意 不照我的
+跟随祢是我的喜乐
+我全然献上
+我全然降服
+在每一天 每个选择
+我都说 我心尊主为大
+--- Bridge
+十架就在前头
+世界就在后头
+我选择耶稣
+跟随不回头
+十架就在前头
+世界就在后头
+我选择耶稣
+跟随不回头
+***
