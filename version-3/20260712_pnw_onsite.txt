@@ -1,3 +1,4 @@
+{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
 ---- 我们等候爱慕耶稣 Deeply Adore You
 # 我们等候爱慕耶稣 ## Deeply Adore You
 @author:曾祥怡 Grace Tseng / 苏子献 Nicholas So
@@ -28,8 +29,8 @@
 愿祢国度降临
 ***
 ---- 谁能使我与神的爱隔绝 Who Can Separate Us
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"main":{"coverTitlePositionY":24,"coverTitleFontSize":58},"secondary":{"coverTitlePositionY":0,"coverTitleFontSize":1}}}
-# 谁能使我与神的爱\n隔绝
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"main":{"coverTitlePositionY":33,"coverTitleFontSize":75},"secondary":{"coverTitlePositionY":68}}}
+# 谁能使我\n与神的爱隔绝 ## Who Can Separate Us
 @author:林婉容 / 倪兆康
 @source_url:https://youtu.be/DFg9seQL4AE
 --- Verse
