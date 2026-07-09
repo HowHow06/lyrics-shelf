@@ -21,8 +21,8 @@
 愿祢国度降临
 ***
 ---- 谁能使我与神的爱隔绝 Who Can Separate Us
-{"general":{"useMainSectionSettings":false,"presetChosen":"liveChinesePreset"}}
-# 谁能使我\n与神的爱隔绝 ## Who Can Separate Us
+{"general":{"useMainSectionSettings":false,"presetChosen":"liveChinesePreset"},"cover":{"main":{"coverTitlePositionY":33,"coverTitleFontSize":75},"secondary":{"coverTitlePositionY":68}}}
+# 谁能使我与神的爱隔绝 ## Who Can Separate Us
 @author:林婉容 / 倪兆康
 @source_url:https://youtu.be/DFg9seQL4AE
 --- Verse
@@ -32,9 +32,11 @@
 神若帮助我们 谁能敌挡我们
 谁能使我 与神的爱隔绝
 --- Chorus
-难道是患难吗 是困苦吗 是逼迫吗 是饥饿吗
+难道是患难吗 是困苦吗
+是逼迫吗 是饥饿吗
 是赤身露体 危险 刀剑吗
-不论是高处的 是低处的 现在的事 将来的事
+不论是高处的 是低处的
+现在的事 将来的事
 都不能叫我 与神的爱隔绝
 ***
 ---- 成为祢的器皿 Make Me Your Vessel
@@ -56,8 +58,7 @@
 荣耀祢 直到看见祢的名被高举
 --- Bridge
 我向祢 献上我心 只唯一 渴慕祢
-主耶稣 我属于祢
-我的心 只愿更多有祢
+主耶稣 我属于祢 我的心 只愿更多有祢
 --- Coda
 献上自己 成为祢的器皿
 ***
