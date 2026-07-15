@@ -1,0 +1,103 @@
+{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
+---- 在这里 You Are Here
+# 在这里 ## You Are Here
+--- Verse
+神的子民合一聚集
+热切期盼遇见祢
+天要敞开
+神的道传遍
+因为我们
+渴慕寻求祢
+**
+--- Chorus
+在这里 在这里
+耶稣祢现在在这里
+我相信 我相信
+喜乐的江河在这里
+**
+荣耀彰显
+奇妙神迹将显明
+天上国度
+降临在这里
+**
+--- Bridge
+祢的灵在这里
+这里就有自由
+圣灵自由运行
+无止尽
+**
+移山倒海信心
+坚定不断升起
+期待伟大神
+做奇妙事
+***
+---- 圣灵的江河 Holy Spirit, Come
+# 圣灵的江河 ## Holy Spirit, Come
+--- Verse
+在祢宝座前
+有一道生命水流
+我们进前来
+谦卑等候领受
+在祢同在中
+有满足的喜乐
+圣灵请祢来
+自由运行这地
+--- Chorus
+圣灵的江河流啊流
+自由涌流在这地
+在我的里面
+生命活水不停息
+圣灵的江河
+自由涌流到无尽
+我们欢迎祢
+圣灵我们爱祢
+***
+---- 我有平安如江河 Peace Like a River
+# 我有平安如江河 ## Peace Like a River
+@source_url:https://www.taiwanbible.com/web/lyrics/view.jsp?ID=3452
+--- Chorus 1
+我有平安如江河
+平安如江河
+我有平安如江河
+在我心
+--- Chorus 2
+我有主爱如江河
+主爱如江河
+我有主爱如江河
+在我心
+--- Chorus 3
+我有喜乐如江河
+喜乐如江河
+我有喜乐如江河
+在我心
+***
+---- 我需要有祢在我生命中 I Need You In My Life
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"main":{"coverTitlePositionY":33,"coverTitleFontSize":75},"secondary":{"coverTitlePositionY":68}}}
+# 我需要有祢\n在我生命中 ## I Need You In My Life
+@author:葛兆昕
+@source_url:https://www.christianstudy.com/data/hymns/text/c2277.html
+--- Verse 1
+哦主
+求祢保守我的心我的意念
+使我能够遵行祢旨意
+我愿将祢话语深藏在我心
+作路上的光
+成为我脚前的灯
+--- Verse 2
+哦主
+求祢坚固我信心我的力量
+使我得以勇敢向前行
+因我知道有时我仍会软弱
+求祢带领我
+使我不会再退缩
+--- Chorus
+我需要有祢在我生命中
+好让我一生能学祢的样式
+使我能成为
+祢所喜悦的儿女
+使我的生命能够
+彰显祢荣耀
+**
+使我成为
+祢所喜悦宝贵儿女
+***
