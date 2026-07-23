@@ -99,27 +99,59 @@
 我要高唱哈利路亚
 我要唱
 ***
----- 全然为祢 With All I Am
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"main":{"coverTitleFontSize":82},"secondary":{"coverTitleFontSize":46}}}
-# 全然为祢 ## With All I Am
+---- With All I Am
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+# With All I Am
+@author: Hillsong Worship
+@source_url: https://hillsong.com/music/worship/for-all-you-ve-done-live/with-all-i-am-live/lyrics
 --- Verse 1
-我将生命交在祢手中
-献上一切给祢主
-我的世界全在祢手里
-我属于祢到永远
+Into Your hand
+I commit again
+With all I am
+For You Lord
+You hold my world
+In the palm of Your hand
+And I am Yours forever
 --- Chorus
-耶稣我心相信祢
-耶稣我心属于祢
-活着全都为了祢
-歌唱也为了祢
-全然为祢
-**
+Jesus I believe in You
+Jesus I belong to You
+You're the reason that I live
+The reason that I sing
+With all I am
 --- Verse 2
-与祢同行到天涯海角
-不论悲喜我信靠祢
-主我愿意活出祢旨意
-活出祢应许到永远
+I'll walk with You
+Wherever You go
+Through tears and joy
+I'll trust in You
+And I will live
+In all of Your ways
+Your promises forever
 --- Bridge
-主我敬拜
-主我敬拜祢
+I will worship
+I will worship You
+***
+---- 差遣我 Send Me
+# 差遣我 ## Send Me
+@author: 赞美之泉
+@source_url: https://simplyworship.hk/lyrics/%E5%B7%AE%E9%81%A3%E6%88%91/
+--- Verse
+主告诉我
+如何献上我的生命
+带希望入人群中
+主告诉我
+如何付上我的关怀
+将温暖带入世界
+--- Pre Chorus
+我看到灵魂中的忧伤
+孤独中人的心
+在角落颤抖
+--- Chorus
+差遣我 差遣我
+我愿付出我所有
+差遣我
+到需要祢的人群中
+充满我 充满我
+用祢爱来充满我
+再一次
+紧握他们的手
 ***
