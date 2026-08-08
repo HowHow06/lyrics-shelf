@@ -1,5 +1,5 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
----- 当转眼仰望耶稣 Turn Your Eyes Upon Jesus 
+---- 当转眼仰望耶稣 Turn Your Eyes Upon Jesus (verse 1 2 and chorus only)
 # 当转眼仰望耶稣 ## Turn Your Eyes Upon Jesus
 @author:Helen H. Lemmel
 @source_url:https://www.zanmei.ai/song/23333.html
