@@ -1,44 +1,28 @@
-{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"liveChinesePreset"}}
----- 当转眼仰望耶稣 Turn Your Eyes Upon Jesus
+---- 当转眼仰望耶稣 Turn Your Eyes Upon Jesus (verse 1 2 and chorus only)
 # 当转眼仰望耶稣 ## Turn Your Eyes Upon Jesus
 @author:Helen H. Lemmel
-@source_url:https://youtu.be/8iFB2feb41Y
+@source_url:https://www.zanmei.ai/song/23333.html
+@translate:歐讚音樂製作 OmniPro Music
 --- Verse 1
-你心是否困倦且愁烦
-眼前一片黑暗朦胧
-只要仰望主就得光明
-生命变更自由丰盛
+你心灵是否困倦愁烦 眼前一片黑暗蒙蒙
+仰望主耶稣就得光明 生命变更自由丰盛
 --- Chorus
-当转眼仰望耶稣
-定睛在祂奇妙慈容
+当转眼仰望耶稣 定睛在祂奇妙慈容
 在救主荣耀恩典大光中
 世上事必然显为虚空
 --- Verse 2
-主已从死亡进入永生
-我们当跟随主不渝
-罪恶权势不能再辖制
-因靠主必得胜有余
+救主的应许永不改变 信靠祂万事蒙恩典
+快去将祂全备的救恩 传给你所认识的人
 --- Chorus
-当转眼仰望耶稣
-定睛在祂奇妙慈容
-在救主荣耀恩典大光中
-世上事必然显为虚空
---- Verse 3
-救主的应许永不变
-专心信靠万事安稳
-快快传扬祂全备救恩
-使凡信者不至沉沦
---- Chorus
-当转眼仰望耶稣
-定睛在祂奇妙慈容
+当转眼仰望耶稣 定睛在祂奇妙慈容
 在救主荣耀恩典大光中
 世上事必然显为虚空
 ***
----- Turn Your Eyes Upon Jesus
+---- Turn Your Eyes Upon Jesus (verse 1 only)
 {"general":{"useMainSectionSettings":false,"presetChosen":"liveEnglishPreset"}}
-# Turn Your Eyes\nUpon Jesus ##
+# Turn Your Eyes Upon Jesus ##
 @author:Helen H. Lemmel
-@source_url:https://youtu.be/8iFB2feb41Y
+@source_url:https://www.hymnal.net/en/hymn/h/645
 --- Verse 1
 O soul are you weary and troubled
 No light in the darkness you see
@@ -47,37 +31,26 @@ And life more abundant and free
 --- Chorus
 Turn your eyes upon Jesus
 Look full in His wonderful face
-And the things of earth will grow\nstrangely dim
+And the things of earth will grow
+strangely dim
 In the light of His glory and grace
 ***
 ---- 以马内利 Emmanuel
 # 以马内利 ## Emmanuel
 --- Verse
-以马内利 
-神与我们同在
-荣美君王 
-我心向祢歌唱
-以马内利 
-风雨中有盼望
-荣耀同在 
-平静安详
+以马内利 神与我们同在
+荣美君王 我心向祢歌唱
+以马内利 风雨中有盼望
+荣耀同在 平静安详
 --- Chorus
-荣耀荣耀荣耀 
-荣耀荣耀荣耀
-祢的大能
-无人能及
-圣哉圣哉圣哉 
-圣哉圣哉圣哉
-暴风雨中
-单单仰望祢
-荣耀荣耀荣耀 
-荣耀荣耀荣耀
-祢的荣美
-无人能及
-圣哉圣哉圣哉 
-圣哉圣哉圣哉
-荣耀光中
-单单仰望祢
+荣耀荣耀荣耀 荣耀荣耀荣耀
+祢的大能 无人能及
+圣哉圣哉圣哉 圣哉圣哉圣哉
+暴风雨中 单单仰望祢
+荣耀荣耀荣耀 荣耀荣耀荣耀
+祢的荣美 无人能及
+圣哉圣哉圣哉 圣哉圣哉圣哉
+荣耀光中 单单仰望祢
 ***
 ---- 愿祢国度降临 When Your Kingdom Comes
 # 愿祢国度降临 ## When Your Kingdom Comes
@@ -86,19 +59,17 @@ In the light of His glory and grace
 @license_provider:CCLI
 @source_url:https://youtu.be/5QmE9psO71g
 --- Verse
-在神的国度里\n有权柄和能力
-不凭血气 不凭势力\n单单倚靠主圣灵
+在神的国度里 有权柄和能力
+不凭血气 不凭势力 单单倚靠主圣灵
 在神的国度里 属神的子民
-不分语言\n在祢面前将荣耀归与祢
+不分语言 在祢面前将荣耀归与祢
 --- Chorus
-愿祢国度降临在这地
-同心高举主耶稣的圣名
-愿祢圣灵彰显在这地
-施行神迹 医治能力
-我们伫立在祢的同在里
+愿祢国度降临在这地 同心高举主耶稣的圣名
+愿祢圣灵 彰显在这地
+施行神迹 医治能力 我们伫立在祢的同在里
 --- Bridge
-我们是祢拣选子民\n带着天国使命
-靠着圣灵宣扬基督的能力
-我们是祢天国子民\n愿祢带来复兴
+我们是祢拣选子民 带着天国使命
+靠着圣灵 宣扬基督的能力
+我们是祢天国子民 愿祢带来复兴
 再次苏醒 看见祢国度降临
 ***
