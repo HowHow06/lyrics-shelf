@@ -29,6 +29,7 @@ and my life seems torn apart
 I will find a way to rejoice each day
 God will give me hope to carry on
 --- Bridge
+{"$scope":"slide","content":{"main":{"text":{"fontSize":42}}}}
 When the storms of life surround you
 you will feel God's arms around you
 bringing comfort where there's sorrow
