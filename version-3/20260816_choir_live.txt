@@ -1,19 +1,19 @@
 ---- Faith to Carry On
-{"general":{"useMainSectionSettings":false,"presetChosen":"liveEnglishPreset"}}
 # Faith to Carry On ## Faith to Carry On
 @author:Don Besig and Nancy Price
 --- Verse 1
 At the break of day as I waken and pray
-I can feel that God is near guiding all I do
-ever faithful and true I will never need to fear
+I can feel that God is near
+guiding all I do ever faithful and true
+I will never need to fear
 Though I may not understand
 all the things that God has planned
 in my heart I know I am not alone
 God will give me strength to carry on
 --- Verse 2
 Though I never know what the future may hold
-or the trials I may face I can ease my mind
-in the promise of God's grace
+or the trials I may face
+I can ease my mind in the promise of God's grace
 When there's sadness in my heart
 and my life seems torn apart
 I will find a way to rejoice each day
@@ -25,11 +25,13 @@ bringing comfort where there's sorrow
 giving hope to face tomorrow
 --- Verse 3
 At the break of day as you waken and pray
-always know that God is near guiding all you do
-ever faithful and true you will never need to fear
+always know that God is near
+guiding all you do ever faithful and true
+you will never need to fear
 Let each moment that you live
 be a chance to love and give
 If you always start with a joyful heart
-God will give you strength God will give you hope
+God will give you strength
+God will give you hope
 God will give you faith to carry on
 ***
