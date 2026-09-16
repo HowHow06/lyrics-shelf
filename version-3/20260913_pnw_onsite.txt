@@ -75,7 +75,6 @@
 归我主
 ***
 ---- 谁能配得 Who else (Bridge only)
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"}}
 # 谁能配得 ## Who else
 @author:Abbie Gamboa, Josiah Funderburk, Zac Rowe
 @source_url:https://youtu.be/tJ3EUh_ZVQI
