@@ -1,5 +1,5 @@
 ---- Goodness of God
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":36}}}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"liveEnglishPreset"},"content":{"main":{"text":{"fontSize":32}}}}
 # Goodness of God
 --- Verse 1
 I love You, Lord
@@ -85,7 +85,8 @@ it's running after me
 --- Chorus
 大声敬拜 wo oh
 自由跳舞 wo oh
-宣告你是我的最爱
+宣告你是我的
+最爱
 我的诗歌 wo oh
 我的拯救 wo oh
 一生一世离不开你同在
@@ -96,83 +97,101 @@ it's running after me
 ***
 ---- I Thank God
 # I Thank God
-@source_url:https://www.youtube.com/watch?v=LM1qrx0Huds
+@source_url:https://pnwchords.com/i-thank-god-maverick-city-music-upperroom/
+--- Verse 1
+Wandering into the night
+Wanting a place to hide
+This weary soul
+this bag of bones
+And I tried with all my might
+But I just can’t win the fight
+I’m slowly drifting
+a vagabond
+And just when I ran out of road
+I met a Man I didn’t know
+And He told me that 
+I was not alone
 --- Chorus
+He picked me up
+Turned me around
+Placed my feet 
+on solid ground
+I thank the Master
+I thank the Savior
+Because He healed my heart
+He changed my name
+Forever free 
+I’m not the same
+I thank the Master
+I thank the Savior
 I thank God
-I thank God
-I thank God
-I thank God
+**
+--- Verse 2
+I cannot dеny what I see
+Got no choice but to believе
+My doubts are burning
+Like ashes in the wind
+So, so long to my old friends
+Burden and bitterness
+You can just keep them moving
+Nah, you ain’t welcome here
+From now till I walk the streets of gold
+I’ll sing of how you saved my soul
+This wayward son 
+has found his way back home
 --- Bridge
 Hell lost another one
-I am free
-I am free
-I am free
+I am free, I am free, I am free
 ***
----- The Church (Live)
-# The Church (Live)
+---- The Church 
+# The Church 
 @author:Bethel Music; Jenn Johnson
 --- Verse 1
 For the different ways we see You
 For all the ways You move
 All the colors and expressions
 Oh the beauty of Your Church
-All the colors and expressions
-All the colors and expressions
 What a masterful reflection
 when we are unified
 Truly celebrate each other
 and let go of our pride
---- Chorus
+--- Prechorus
 That You would have a spotless bride
+--- Chorus
 Oh praise the Father, praise the Son
 Holy Spirit, make us one
-Every nation, tribe, and tongue
-This is our cry
-Your kingdom come
---- Verse 2
+Every nation, tribe and tongue
+This is our cry, Your Kingdom come
+--- Verse2
 We surrender our agendas
-Our preferences, our plans
+our preferences, our plans
 Would You help us work together
 To be Your feet and hands
 Our heart is just to know You
 To show them who You are
-The Gospel's still the answer
-For every searching heart
---- Chorus
-Oh praise the Father and praise the Son
-Oh Holy Spirit, make us one
-Every nation, tribe, and tongue
-This is our cry, Your kingdom come
+The Gospel’s still the answer 
+for every searching heart
 --- Bridge
-Brothers and sisters
-Under the banner of Your Name
-Mothers and fathers
-Under the banner of Your Name
-All Your children
-All for the glory of Your Name
-We're brothers and we're sisters
-And under the banner of Your Name
-And mothers and we're fathers
-Under the banner of Your Name
-We're all just children
-It's all for the glory of Your Name
-We're brothers and we're sisters
-It's under the banner of Your Name
-We're mothers and we're fathers
-It's under the banner of Your Name
-And we're all Your children
-It's all for the glory of Your Name
-Oh it's for Your Name
---- Verse 3
-Every story of revival
-Every miracle we've seen
-It's a glimpse of what is coming
+We're brothers, we're sisters 
+under the banner of Your Name
+We're mothers, we're fathers 
+under the banner of Your Name
+We're all Your children
+all for the glory of Your Name
+--- Verse3
+For every story of revival
+Every miracle we’ve seen
+It’s a glimpse of what is coming
 So by faith help us believe
-We know the day is coming
-when we will see Your face
+And we know the day is coming
+When we will see Your face
 Every knee will bow before You
 And every heart will say
---- Tag
+--- Outro
+Oh praise the Father, praise the Son
+Holy Spirit, make us one
+Every nation, tribe and tongue
+This is our cry, Your Kingdom come
 Lord hear our cry, Your will be done
-This is our cry, Your kingdom come
+This is our cry, Your Kingdom come
 ***
