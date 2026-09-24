@@ -1,6 +1,6 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
 ---- 神的良善荣美（新店版） Goodness of God
-# 神的良善\n荣美 ## Goodness of God
+# 神的良善荣美 ## Goodness of God
 --- Verse 1
 我深爱祢
 祢的怜悯永不改变
