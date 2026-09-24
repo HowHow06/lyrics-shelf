@@ -1,6 +1,6 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
 ---- Goodness of God
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":30}}}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":36}}}}
 # Goodness of God
 --- Verse 1
 I love You, Lord
