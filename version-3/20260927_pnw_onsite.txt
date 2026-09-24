@@ -1,138 +1,94 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
 ---- Goodness of God
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":36}}}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":30}}}}
 # Goodness of God
 --- Verse 1
 I love You, Lord
-Oh Your mercy
-never fails me
+Oh Your mercy never fails me
 All my days
-I've been held
-in Your hands
-From the moment
-that I wake up
+I've been held in Your hands
+From the moment that I wake up
 Until I lay my head
-Oh, I will sing 
-of the goodness of God
---- Chorus
-Cause all my life
-You have been faithful
-And all my life You
-have been so, so good
-With every breath
-that I am able
 Oh, I will sing
 of the goodness of God
+--- Chorus
+Cause all my life You have been faithful
+And all my life You have been so, so good
+With every breath that I am able
+Oh, I will sing of the goodness of God
 --- Verse 2
 I love Your voice
-You have led
-me through the fire
-And in darkest night 
-You are close
-like no other
-I've known You
-as a Father
-I've known You
-as a Friend
-And I have lived 
+You have led me through the fire
+And in darkest night
+You are close like no other
+I've known You as a Father
+I've known You as a Friend
+And I have lived
 in the goodness of God
 --- Bridge
-Your goodness
-is running after
+Your goodness is running after
 it's running after me
-Your goodness
-is running after
+Your goodness is running after
 it's running after me
 With my life laid down
 I'm surrendered now
 I give You everything
 **
-Your goodness
-is running after
+Your goodness is running after
 it's running after me
 ***
----- The Church 
+---- The Church
 {"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
-# The Church 
+# The Church
 @author:Bethel Music; Jenn Johnson
 --- Verse 1
-For the different
-ways we see You
-For all the
-ways You move
-All the
-colors and expressions
-Oh the beauty
-of Your Church
-What a
-masterful reflection
+For the different ways we see You
+For all the ways You move
+All the colors and expressions
+Oh the beauty of Your Church
+What a masterful reflection
 when we are unified
-Truly celebrate
-each other
+Truly celebrate each other
 and let go of our pride
 --- Prechorus
-That You would
-have a spotless bride
+That You would have a spotless bride
 --- Chorus
-Oh praise the
-Father, praise the Son
+Oh praise the Father, praise the Son
 Holy Spirit, make us one
-Every nation,
-tribe and tongue
-This is our
-cry, Your Kingdom come
+Every nation, tribe and tongue
+This is our cry, Your Kingdom come
 --- Verse2
-We surrender
-our agendas
-our preferences,
-our plans
-Would You help
-us work together
+We surrender our agendas
+our preferences, our plans
+Would You help us work together
 To be Your feet and hands
-Our heart is
-just to know You
-To show them
-who You are
-The Gospel’s still
-the answer 
+Our heart is just to know You
+To show them who You are
+The Gospel’s still the answer
 for every searching heart
 --- Bridge
-We're brothers,
-we're sisters 
-under the banner
-of Your Name
-We're mothers,
-we're fathers 
-under the banner
-of Your Name
+We're brothers, we're sisters
+under the banner of Your Name
+We're mothers, we're fathers
+under the banner of Your Name
 We're all Your children
-all for the
-glory of Your Name
+all for the glory of Your Name
 --- Verse3
 For every story of revival
 Every miracle we’ve seen
-It’s a glimpse
-of what is coming
+It’s a glimpse of what is coming
 So by faith help us believe
-And we know
-the day is coming
-When we will
-see Your face
-Every knee will
-bow before You
+And we know the day is coming
+When we will see Your face
+Every knee will bow before You
 And every heart will say
 --- Outro
-Oh praise the
-Father, praise the Son
+Oh praise the Father, praise the Son
 Holy Spirit, make us one
-Every nation,
-tribe and tongue
-This is our
-cry, Your Kingdom come
-Lord hear our cry,
-Your will be done
-This is our
-cry, Your Kingdom come
+Every nation, tribe and tongue
+This is our cry, Your Kingdom come
+Lord hear our cry, Your will be done
+This is our cry, Your Kingdom come
 ***
 ---- 大声敬拜 Shout Out Your Praise
 # 大声敬拜 ## Shout Out Your Praise
@@ -166,29 +122,24 @@ Wandering into the night
 Wanting a place to hide
 This weary soul
 this bag of bones
-And I tried
-with all my might
-But I just
-can’t win the fight
+And I tried with all my might
+But I just can’t win the fight
 I’m slowly drifting
 a vagabond
-And just when I
-ran out of road
-I met a
-Man I didn’t know
-And He told me that 
+And just when I ran out of road
+I met a Man I didn’t know
+And He told me that
 I was not alone
 --- Chorus
 He picked me up
 Turned me around
-Placed my feet 
+Placed my feet
 on solid ground
 I thank the Master
 I thank the Savior
-Because He
-healed my heart
+Because He healed my heart
 He changed my name
-Forever free 
+Forever free
 I’m not the same
 I thank the Master
 I thank the Savior
@@ -196,28 +147,20 @@ I thank God
 **
 --- Verse 2
 I cannot dеny what I see
-Got no choice
-but to believе
+Got no choice but to believе
 My doubts are burning
 Like ashes in the wind
-So, so long
-to my old friends
+So, so long to my old friends
 Burden and bitterness
-You can just
-keep them moving
-Nah, you
-ain’t welcome here
-From now till I
-walk the streets of gold
-I’ll sing of how
-you saved my soul
-This wayward son 
-has found his
-way back home
+You can just keep them moving
+Nah, you ain’t welcome here
+From now till I walk the streets of gold
+I’ll sing of how you saved my soul
+This wayward son
+has found his way back home
 --- Bridge
 Hell lost another one
-I am free, I
-am free, I am free
+I am free, I am free, I am free
 ***
 ---- 不动摇的信心 Unshakeable Faith
 # 不动摇的信心 ## Unshakeable Faith
