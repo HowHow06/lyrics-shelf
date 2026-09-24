@@ -1,12 +1,14 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
 ---- 神的良善荣美（新店版） Goodness of God
-# 神的良善\n荣美（新店版） ## Goodness of God
+# 神的良善\n荣美 ## Goodness of God
 --- Verse 1
 我深爱祢
 祢的怜悯永不改变
-每一天 祢的恩手扶持我
+每一天 
+祢的恩手扶持我
 清晨当我睁开双眼
-直到我躺卧 我要歌唱
+直到我躺卧 
+我要歌唱
 神的良善荣美
 --- Chorus
 一生信实对我顾念
@@ -16,9 +18,12 @@
 --- Verse 2
 祢的声音
 领我经过水火试炼
-黑暗中 如此亲近我的灵
-祢是我的天父 祢是我良友
-一生活在 神的良善荣美
+黑暗中 
+如此亲近我的灵
+祢是我的天父 
+祢是我良友
+一生活在 
+神的良善荣美
 --- Bridge
 祢良善永看顾我
 永伴随我生命
