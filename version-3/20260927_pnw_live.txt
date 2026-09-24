@@ -1,5 +1,5 @@
 ---- Goodness of God
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":36}}}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"liveEnglishPreset"},"content":{"main":{"text":{"fontSize":32}}}}
 # Goodness of God
 --- Verse 1
 I love You, Lord
@@ -51,7 +51,7 @@ is running after
 it's running after me
 ***
 ---- The Church 
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"liveEnglishPreset"}}
 # The Church 
 @author:Bethel Music; Jenn Johnson
 --- Verse 1
@@ -157,7 +157,7 @@ cry, Your Kingdom come
 诸天要赞美 众山要欢呼
 ***
 ---- I Thank God
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"liveEnglishPreset"}}
 # I Thank God
 @source_url:https://pnwchords.com/i-thank-god-maverick-city-music-upperroom/
 --- Verse 1
