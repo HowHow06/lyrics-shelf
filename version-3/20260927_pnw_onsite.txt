@@ -1,44 +1,41 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
----- Goodness of God
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":36}}}}
-# Goodness of God
+---- 神的良善荣美（新店版） Goodness of God
+# 神的良善荣美 ## Goodness of God
 --- Verse 1
-I love You, Lord
-Oh Your mercy never fails me
-All my days
-I've been held in Your hands
-From the moment that I wake up
-Until I lay my head
-Oh, I will sing
-of the goodness of God
+我深爱祢
+祢的怜悯永不改变
+每一天 
+祢的恩手扶持我
+清晨当我睁开双眼
+直到我躺卧 
+我要歌唱
+神的良善荣美
 --- Chorus
-Cause all my life You have been faithful
-And all my life You have been so, so good
-With every breath that I am able
-Oh, I will sing of the goodness of God
+一生信实对我顾念
+一生美好待我 到永远
+我一切所有生命气息
+我要歌唱 神的良善荣美
 --- Verse 2
-I love Your voice
-You have led me through the fire
-And in darkest night
-You are close like no other
-I've known You as a Father
-I've known You as a Friend
-And I have lived
-in the goodness of God
+祢的声音
+领我经过水火试炼
+黑暗中 
+如此亲近我的灵
+祢是我的天父 
+祢是我良友
+一生活在 
+神的良善荣美
 --- Bridge
-Your goodness is running after
-it's running after me
-Your goodness is running after
-it's running after me
-With my life laid down
-I'm surrendered now
-I give You everything
-**
-Your goodness is running after
-it's running after me
+祢良善永看顾我
+永伴随我生命
+祢良善永看顾我
+永伴随我生命
+当我降服祢 我献上生命
+所有全属于祢
+祢良善永看顾我
+永伴随我生命
 ***
 ---- The Church
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":40}}}}
 # The Church
 @author:Bethel Music; Jenn Johnson
 --- Verse 1
@@ -114,7 +111,7 @@ This is our cry, Your Kingdom come
 诸天要赞美 众山要欢呼
 ***
 ---- I Thank God
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":40}}}}
 # I Thank God
 @source_url:https://pnwchords.com/i-thank-god-maverick-city-music-upperroom/
 --- Verse 1
