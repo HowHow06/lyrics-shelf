@@ -35,7 +35,7 @@
 永伴随我生命
 ***
 ---- The Church
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":40}}}}
 # The Church
 @author:Bethel Music; Jenn Johnson
 --- Verse 1
@@ -111,7 +111,7 @@ This is our cry, Your Kingdom come
 诸天要赞美 众山要欢呼
 ***
 ---- I Thank God
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteEnglishPreset"},"content":{"main":{"text":{"fontSize":40}}}}
 # I Thank God
 @source_url:https://pnwchords.com/i-thank-god-maverick-city-music-upperroom/
 --- Verse 1
