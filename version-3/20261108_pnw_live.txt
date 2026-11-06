@@ -1,5 +1,6 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"liveChinesePreset"}}
 ---- 我的心你要称颂耶和华 Praise the Lord, O My Soul
+{"general":{"useMainSectionSettings":false,"presetChosen":"liveChinesePreset"}}
 # 我的心你要称颂耶和华 ## Praise the Lord, O My Soul
 --- Verse
 我的心 你要称颂耶和华 不可忘记祂的恩惠
