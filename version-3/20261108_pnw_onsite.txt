@@ -1,5 +1,6 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
 ---- 我的心你要称颂耶和华 Praise the Lord, O My Soul
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"main":{"coverTitlePositionY":33,"coverTitleFontSize":74},"secondary":{"coverTitlePositionY":66,"coverTitleFontSize":46}}}
 # 我的心你要\n称颂耶和华 ## Praise the Lord, O My Soul
 --- Verse
 我的心 你要称颂耶和华
