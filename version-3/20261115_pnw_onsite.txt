@@ -1,6 +1,6 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
 ---- 献上赞美祭 Sacrifice Of Praise
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"content":{"secondary":{"text":{"fontSize":32}}}}
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"content":{"secondary":{"text":{"fontSize":26}}}}
 # 献上赞美祭 ## Sacrifice Of Praise
 @author:曾祥怡 Stream of Praise
 @source_url:https://youtu.be/cxDQ5YpYXlA
