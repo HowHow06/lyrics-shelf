@@ -1,5 +1,6 @@
 {"general":{"useDifferentSettingForEachSection":true,"presetChosen":"liveChinesePreset"}}
 ---- 献上赞美祭 Sacrifice Of Praise
+{"general":{"useMainSectionSettings":false,"presetChosen":"liveChinesePreset"}}
 # 献上赞美祭 ## Sacrifice Of Praise
 @author:曾祥怡 Stream of Praise
 @source_url:https://youtu.be/cxDQ5YpYXlA
@@ -29,8 +30,8 @@ I was lost but He brought me in Oh His love for me
 Oh His love for me
 --- Chorus
 Who the Son sets free Oh is free indeed
-I'm a child of God, Yes I am In my Father's house
-There's a place for me
+I'm a child of God, Yes I am
+In my Father's house There's a place for me
 I'm a child of God, Yes I am
 --- Verse 2
 Free at last He has ransomed me
