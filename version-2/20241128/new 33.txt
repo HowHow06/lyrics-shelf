@@ -1,20 +1,21 @@
 ---- 诗篇63篇 Mazmur 63
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"}}
 # 诗篇63篇 ## Mazmur 63
---- Verse:
+--- Verse
 主阿 祢是
 我心所渴慕
-我的灵 
+我的灵
 渴想 切慕祢主
-在这干旱 疲乏 
+在这干旱 疲乏
 无水之地
-我等候 
+我等候
 切切寻求祢
---- Chorus:
+--- Chorus
 我在圣所
 曾如此瞻仰祢
-为要见祢能力荣耀 
+为要见祢能力荣耀
 喔耶稣
-因祢丰盛慈爱 
+因祢丰盛慈爱
 比生命宝贵
 我的嘴唇
 要不停赞美

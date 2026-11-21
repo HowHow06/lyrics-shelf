@@ -89,6 +89,7 @@
 圣哉 圣哉
 ***
 ---- 诗篇63篇 Mazmur 63
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"}}
 # 诗篇63篇 ## Mazmur 63
 --- Verse
 主阿 祢是

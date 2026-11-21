@@ -54,6 +54,7 @@
 基督远胜过一切 圣哉 圣哉
 ***
 ---- 诗篇63篇 Mazmur 63
+{"general":{"useMainSectionSettings":false,"presetChosen":"liveChinesePreset"}}
 # 诗篇63篇 ## Mazmur 63
 --- Verse
 主阿 祢是 我心所渴慕

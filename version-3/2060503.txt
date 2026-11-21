@@ -30,8 +30,8 @@
 凡事相信
 ***
 ---- 耶稣 超乎万名的名 Jesus, The Name Above All Names
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"secondary":{"coverTitlePositionY":58}}}
-# 耶稣 超乎万名的名 ## Jesus, The Name \nAbove All Names
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"secondary":{"coverTitlePositionY":63}}}
+# 耶稣 超乎万名的名 ## Jesus, The Name\nAbove All Names
 @author: 林显荣 Alex Lin、马筝 Katrina Ma、张哲轩 Jerry Chang、蔡佳灵 Charis Chua、刘蓉琪 Lily Liu
 --- Verse 1
 耶稣的名 超乎万名
@@ -44,7 +44,7 @@
 超越时空 拯救万民
 是道路 真理 生命
 --- Chorus
-因耶稣的名 
+因耶稣的名
 蒙恩典站立
 喜乐油代替悲哀
 赞美衣代替忧伤
@@ -53,9 +53,12 @@
 **
 靠着耶稣得胜的名
 --- Bridge 1
-We sing worthy worthy worthy
-We sing worthy worthy worthy
-We sing worthy worthy worthy
+We sing worthy
+worthy worthy
+We sing worthy
+worthy worthy
+We sing worthy
+worthy worthy
 Is Your name
 --- Bridge 2
 祢是配得 祢是配得

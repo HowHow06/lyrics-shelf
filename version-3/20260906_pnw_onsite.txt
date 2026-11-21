@@ -63,8 +63,8 @@
 仰望祢荣光
 ***
 ---- 耶稣 超乎万名的名 Jesus, The Name Above All Names
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"secondary":{"coverTitlePositionY":58}}}
-# 耶稣 超乎万名的名 ## Jesus, The Name \nAbove All Names
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"secondary":{"coverTitlePositionY":63}}}
+# 耶稣 超乎万名的名 ## Jesus, The Name\nAbove All Names
 @author:林显荣 Alex Lin、马筝 Katrina Ma、张哲轩 Jerry Chang、蔡佳灵 Charis Chua、刘蓉琪 Lily Liu
 --- Verse 1
 耶稣的名 超乎万名

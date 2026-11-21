@@ -61,20 +61,24 @@
 圣哉圣哉圣哉
 ***
 ---- 深深爱祢 Deeper In Love
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"}}
 # 深深爱祢 ## Deeper In Love
---- [Verse]
+--- Verse
 我生命中最渴望的一件事
 切慕祢 单单寻求祢
-用我全心全意 用我全力爱祢
-敬拜祢 让祢荣耀充满全地
---- [Chorus]
-深深爱祢 耶稣 
+用我全心全意
+用我全力爱祢
+敬拜祢 
+让祢荣耀充满全地
+--- Chorus
 深深爱祢 耶稣
-我爱祢
+深深爱祢 耶稣
+我爱祢 
 超越生命中一切
-深深爱祢 耶稣 
 深深爱祢 耶稣
-哦 我爱祢 耶稣
+深深爱祢 耶稣
+哦 我爱祢 
+耶稣
 ***
 ---- Goodness of God
 # Goodness of God
