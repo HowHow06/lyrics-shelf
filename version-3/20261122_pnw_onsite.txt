@@ -1,6 +1,7 @@
+{"general":{"useDifferentSettingForEachSection":true,"presetChosen":"onsiteChinesePreset"}}
 ---- 耶稣 超乎万名的名 Jesus, The Name Above All Names
-{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"secondary":{"coverTitlePositionY":58}}}
-# 耶稣 超乎万名的名 ## Jesus, The Name \n Above All Names
+{"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"secondary":{"coverTitlePositionY":63}}}
+# 耶稣 超乎万名的名 ## Jesus, The Name\nAbove All Names
 @author: 林显荣 Alex Lin、马筝 Katrina Ma、张哲轩 Jerry Chang、蔡佳灵 Charis Chua、刘蓉琪 Lily Liu
 @source_url: https://youtu.be/jmkKSCC4sMg
 --- Verse 1
