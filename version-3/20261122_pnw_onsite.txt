@@ -1,6 +1,6 @@
 ---- 耶稣 超乎万名的名 Jesus, The Name Above All Names
 {"general":{"useMainSectionSettings":false,"presetChosen":"onsiteChinesePreset"},"cover":{"secondary":{"coverTitlePositionY":58}}}
-# 耶稣 超乎万名的名 ## Jesus, The Name \\n+Above All Names
+# 耶稣 超乎万名的名 ## Jesus, The Name \n Above All Names
 @author: 林显荣 Alex Lin、马筝 Katrina Ma、张哲轩 Jerry Chang、蔡佳灵 Charis Chua、刘蓉琪 Lily Liu
 @source_url: https://youtu.be/jmkKSCC4sMg
 --- Verse 1
@@ -67,12 +67,15 @@ Is Your name
 切慕祢 单单寻求祢
 用我全心全意
 用我全力爱祢
-敬拜祢 让祢荣耀充满全地
+敬拜祢 
+让祢荣耀充满全地
 --- Chorus
 深深爱祢 耶稣
 深深爱祢 耶稣
-我爱祢 超越生命中一切
+我爱祢 
+超越生命中一切
 深深爱祢 耶稣
 深深爱祢 耶稣
-哦 我爱祢 耶稣
+哦 我爱祢 
+耶稣
 ***
