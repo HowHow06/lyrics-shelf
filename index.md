@@ -2,6 +2,10 @@
 
 This repository stores lyrics for the **Khen PPT Generator** tool, organized by version. Each version introduces new syntax features that enhance how lyrics are formatted and displayed in PowerPoint presentations.
 
+## Service-specific notes
+
+- [2026-11-29: revisions, approved input pairs, and mixed English/pinyin secondary lyrics](version-3/20261129_pnw_README.md). Read before reusing this service's files; repeated songs and older revisions are intentional.
+
 ## 📁 Directory Structure
 
 ```
